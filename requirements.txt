@@ -1,5 +1,5 @@
-google-play-scraper for Web Scraping (Task 1)
-pandas for Data Manipulation and Cleaning (Task 1 & 2)
+google-play-scraper for Web Scraping 
+pandas for Data Manipulation and Cleaning 
 numpy for Numerical operations (often a dependency for pandas/scikit-learn)
-nltk for Text Preprocessing (Tokenization, Stop Word Removal, Stemming/Lemmatization for Task 2)
-scikit-learn for Machine Learning (For building or using a basic Sentiment Analysis Model in Task 2)
+nltk for Text Preprocessing (Tokenization, Stop Word Removal, Stemming/Lemmatization)
+scikit-learn for Machine Learning (For building or using a basic Sentiment Analysis Model )
