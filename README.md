@@ -1,0 +1,1 @@
+This repository contains the code and data for Task 1, which involved scraping customer reviews for CBE, BOA, and Dashen banks from the Google Play Store. Using the google-play-scraper and pandas, we collected 1,362 raw reviews and then cleaned the data by removing duplicates and normalizing dates.
